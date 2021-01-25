@@ -44,3 +44,6 @@ Espera-se, com este trabalho, obter mais clareza sobre os fatores que determinam
 
 ## Referências Bibliográficas
 Microdados do Enem 2019 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+Estatistica Empresarial
+Machine Learning
+Hands on Machine Learning
