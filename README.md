@@ -43,3 +43,4 @@ Os modelos e técnicas considerados neste este experimento são
 Espera-se, com este trabalho, obter mais clareza sobre os fatores que determinam o bom desempenho, além de iniciar discussões a respeito de iniciativas que podem ajudar os participantes durante a preparação para o exame. 
 
 ## Referências Bibliográficas
+Microdados do Enem 2019 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
