@@ -25,14 +25,7 @@ Especialistas tem suas teorias e hipóteses para explicar o desempenho na redaç
 
 ## Objetivo deste experimento
 
-Com o interesse em conhecer e medir os fatores que determinam um bom desempenho na redação, o objeto deste experimento é usar modelos de **machine learning** que permitam agrupar os participantes, bem como prever o desempenho e as nota a partir dos dados obtidos no EMEM de 2019.
-
-A métrica que definirá o desempenho na redação será construida a partir da criação de três classes:
-- Participantes abaixo da média
-- Participantes dentro da media
-- Participantes abaixo da média
-
-Tal média não será estabelecida por um valor único, mas pelo uso de um intervalo de confiança que considera a margem de erro.
+Com o interesse em conhecer e medir os fatores que determinam um bom desempenho na redação, o objeto deste experimento é usar modelos de **machine learning** que permitam agrupar os participantes, bem como prever a nota da redação a partir dos dados obtidos no EMEM de 2019.
 
 Os modelos e técnicas considerados neste este experimento são
 * Redução de Dimensionalidade 
